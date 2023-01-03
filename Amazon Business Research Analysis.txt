@@ -1,0 +1,43 @@
+AMAZON BUSINESS RESEARCH ANALYST DATASET: CASE  STUDY; RESTAURANT
+
+The dataset is obtained from Kaggle which contains 11399 entries and 20 columns. This was a 
+team mini project, which was conducted while undergoing fellowship training with Tech4Dev. 
+I led the group to perform the data processing, Exploratory data analysis as well as implemented the machine learning models to train our datasets. Further, I created a PowerPoint presentation.
+
+ 
+Introduction:
+Food is an essential need for man's survival. Every one of us at certain points has either had the best food or cravings for certain kinds of foods and would most likely go to any length to get it either by cooking or eating out.
+We also have ideal situations where factors like the weather influence what we eat.  For example, certain people wouldn't order a certain meal when the weather is bad, because they feel delivery guys wouldn't work, or movement might be impeded, or maybe such meals might affect their health. There are also days a restaurant gets to be patronized the most.
+This reality helped us define our objectives for the project.
+
+Objectives:
+To explore the dataset extensively, we aimed to answer a few questions. 
+
+1.	What food do customers like the most?
+2.	Does weather influence what people eat?
+3.	What is the preferred mode of transportation used by the restaurant? 
+4.	What time do people pick up their orders most?
+5.	Which days are the busiest in the restaurant [which days do customers visit the restaurant the most]?
+6. Which days of the week does the restaurant delivers the most patronize?
+7. What is the relationship between the time taken to deliver food and the distance travelled? 
+8. What is the correlation between days of the week concerning the type of vehicle used to deliver food and the distance covered]?
+
+Machine learning scenario:
+Mrs Ndidi ordered meals at the amazon restaurant on Thursday morning. Predict how long before she received her order if the delivery man used a motorcycle bearing in mind that the customer stays 9.760928 km away from the restaurant.
+Models used:
+Decision tree
+Linear Regression 
+
+Methodology 
+Import necessary libraries such as 
+•	pandas to store and manipulate the dataset
+•	matplotlib and seaborne for visualization
+•	sklearn for machine learning models 
+Loading datasets from the Kaggle website
+Data pre-processing and cleaning
+Perform exploratory data Analysis (EDA)
+Perform Machine-learning models
+Visualization and Analysis
+
+Recommendations 
+
